@@ -1,0 +1,24 @@
+
+
+Hook this bitch up into a database.
+	- database module
+	
+		- runQuery
+		- connect
+		- cleanInput
+
+
+
+
+
+
+
+
+
+---
+post cp
+
+????
+
+Profit.
+u mad?
